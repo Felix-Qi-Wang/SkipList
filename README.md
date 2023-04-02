@@ -1,2 +1,3 @@
 # SkipList
-Implmenton of SkipList
+
+Implementation of SkipList of Redis's Zset
